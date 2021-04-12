@@ -19,7 +19,7 @@
 body {
     font-family: 'Kumbh Sans', sans-serif;
     color: var(--cool-black);
-    /* background: url(images/bg-pattern-bottom.svg) right -600px bottom 1000px no-repeat, url(images/bg-pattern-top.svg) left -600 top  1000 px no-repeat; */
+    
     
 }
 
@@ -127,7 +127,6 @@ section {
 }
 .graphics .bottom-circ {
     position: absolute;
-    bottom: px;
     right: 225px;
     z-index: 1;
 } 
