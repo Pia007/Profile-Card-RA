@@ -119,16 +119,16 @@ section {
 
 .graphics .top-circ {
     position: absolute;
-    top: -600px;
-    left: 145px;
+    top: 10px;
+    left: 10px;
     z-index: 1;
    
     
 }
 .graphics .bottom-circ {
     position: absolute;
-    bottom: -600px;
-    right: 165px;
+    bottom: 10px;
+    right: 10px;
     z-index: 1;
 } 
 
