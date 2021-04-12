@@ -120,14 +120,15 @@ section {
 .graphics .top-circ {
     position: absolute;
     top: -300px;
-    left: 75px;
+    left: 50px;
     z-index: 1;
    
     
 }
 .graphics .bottom-circ {
     position: absolute;
-    right: 225px;
+    bottom: -300px;
+    right: 100px;
     z-index: 1;
 } 
 
