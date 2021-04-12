@@ -35,8 +35,8 @@ section {
 
 .graphics .top-circ,
 .graphics .bottom-circ {  
-    width: 800px;
-    height: 800px;
+    width: 500px;
+    height: 500px;
 }
 
 .card {
